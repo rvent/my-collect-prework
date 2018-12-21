@@ -8,4 +8,3 @@ def my_collect(collection)
   end
   new_arr
 end
-
